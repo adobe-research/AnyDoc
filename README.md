@@ -1,24 +1,26 @@
-# AnyDoc: Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization
+<div align="center">
 
-<p align="center">
-  <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Lin_AnyDoc_Enhancing_Document_Generation_via_Large-Scale_HTMLCSS_Data_Synthesis_and_CVPR_2026_paper.html"><img src="https://img.shields.io/badge/CVPR-2026-1b75bb.svg" alt="CVPR 2026"></a>
-  <a href="https://arxiv.org/abs/2603.25118"><img src="https://img.shields.io/badge/arXiv-2603.25118-b31b1b.svg" alt="arXiv"></a>
-  <img src="https://img.shields.io/badge/License-Adobe%20Research-lightgrey.svg" alt="Adobe Research License">
+# AnyDoc
+
+### Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization
+
+<p>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Lin_AnyDoc_Enhancing_Document_Generation_via_Large-Scale_HTMLCSS_Data_Synthesis_and_CVPR_2026_paper.html"><img src="https://img.shields.io/badge/CVPR-2026-1b75bb.svg?style=for-the-badge" alt="CVPR 2026"></a>
+  <a href="https://arxiv.org/abs/2603.25118"><img src="https://img.shields.io/badge/arXiv-2603.25118-b31b1b.svg?style=for-the-badge" alt="arXiv"></a>
+  <img src="https://img.shields.io/badge/License-Adobe_Research-555.svg?style=for-the-badge" alt="Adobe Research License">
 </p>
 
-**Jiawei Lin**<sup>\*</sup> (Xi'an Jiaotong University) &nbsp;•&nbsp;
-**Wanrong Zhu** (Adobe Research) &nbsp;•&nbsp;
-**Vlad I. Morariu** (Adobe Research) &nbsp;•&nbsp;
-**Christopher Tensmeyer** (Adobe Research)
+Jiawei Lin<sup>\*</sup> &nbsp;·&nbsp; Wanrong Zhu &nbsp;·&nbsp; Vlad I. Morariu &nbsp;·&nbsp; Christopher Tensmeyer
+
+Xi'an Jiaotong University &nbsp;·&nbsp; Adobe Research
 
 <sub><sup>\*</sup>Work done during an internship at Adobe Research.</sub>
 
-📄 [Paper (CVPR 2026)](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_AnyDoc_Enhancing_Document_Generation_via_Large-Scale_HTMLCSS_Data_Synthesis_and_CVPR_2026_paper.html) &nbsp;|&nbsp;
-📄 [arXiv](https://arxiv.org/abs/2603.25118)
+**[📄 Paper (CVPR 2026)](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_AnyDoc_Enhancing_Document_Generation_via_Large-Scale_HTMLCSS_Data_Synthesis_and_CVPR_2026_paper.html)** &nbsp;•&nbsp; **[📄 arXiv](https://arxiv.org/abs/2603.25118)**
 
-<p align="center">
-  <img src="assets/teaser.png" width="100%" alt="AnyDoc teaser">
-</p>
+<img src="assets/teaser.png" width="100%" alt="AnyDoc teaser">
+
+</div>
 
 ---
 
