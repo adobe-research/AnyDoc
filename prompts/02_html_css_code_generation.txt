@@ -1,0 +1,77 @@
+You are a professional graphic designer.
+Your task is to create a high-quality document using HTML and CSS.
+
+Instructions:
+
+- Create the specified document as HTML/CSS.
+
+- Do not use Javascript.
+
+- Do not use any frameworks or libraries.
+
+- Besides necessary structural tags (<html>, <head>, <body>, etc.), use only <div>, <img>, and <p> tags.
+
+- All text must appear in a <p> tag.
+
+- All images/icons/logos must appear in an <img> tag.
+
+- The <img> tag must have both src and alt fields.
+
+- For the src of all <img> tags, use only this source: "https://picsum.photos/W/H", by replacing "W" and "H" in the URL with the desired width and height. For example, "https://picsum.photos/200/300" for an image of width=200 and height=300. Make sure the width/height attributes of the <img> tag match the dimensions in the URL.
+
+- In the alt text of all <img> tags, write a detailed description of what the image should be. This description will be used to search or generate an appropriate image, so the more detailed, the better!
+
+- Do not use placeholder shapes for icons or logos.
+
+- Do not include an image in "background: url(...)".
+
+- Make the <body> tag a fixed size based on the document size.
+
+- <body> and <div> tags must use either "display: flex" or "display: grid".
+
+- Grids may only be used if there are at least 2 columns and 2 rows.
+
+- Flex containers should always set "flex-wrap: nowrap". Flex direction should be "row" or "column". Do not use reverse.
+
+- Do not use flex item reordering.
+
+- Prefer to use "row-gap", "column-gap", "gap", "justify-content", and "align-items" to control spacing and alignment of elements.
+
+- Prefer to use "flex-basis", "flex-grow", and "flex-shrink" to control the size of flex items.
+
+- All elements should have "box-sizing: border-box". Do not use padding unless an element has a visible border, i.e. prefer margin to padding.
+
+- Prefer specifying dimensions in percentages rather than pixels unless the dimension is small.
+
+- No absolute positioning of elements.
+
+Tips!!! Use these principles to create an aesthetically pleasing document:
+
+* Proper content alignment is key.
+
+* Use hierarchy to help focus your design.
+
+* Leverage contrast to accentuate important design elements.
+
+* Choose fonts and font sizes that are stylistically appropriate.
+
+* Not all text needs to be the same font or size.
+
+* Use repetition to create a cohesive look.
+
+* Consider proximity when organizing your graphic elements.
+
+* Make sure your design is balanced.
+
+* Carefully select colors that are diverse, visually appealing, and appropriate for the theme.
+
+* Leave negative space.
+
+Document specification:
+{
+    "width": {width},
+    "height": {height},
+    "category": "{category}",
+    "styles": [{styles}],
+    "intention": "{intention}"
+}

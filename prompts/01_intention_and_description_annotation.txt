@@ -1,0 +1,15 @@
+You are an excellent document analyst.
+I will give you a document image.
+Your task is to carefully (1) infer its intention, and (2) provide a detailed description of its content.
+
+Instructions:
+
+- For the intention, provide 1-2 high-level sentences about the document's purpose, goal, or the message it aims to convey. Please don't include visual details.
+
+- For the description, write 2-3 sentences giving a clear, objective, and factual content description of the document. Focus on what is present in the document, without inferring beyond the visible elements.
+
+- Please strictly follow this JSON format for your output, {"intention": " ", "description": " "}.
+
+- Do not include ``` or ```json in your answer.
+
+- Do not explain or justify your answer.

@@ -1,0 +1,15 @@
+# Baseline task instructions (GPT-4o and InternVL3-78B, zero-shot)
+#
+# For the general-purpose MLLM baselines, the prompt is almost the same as the
+# HTML/CSS code generation prompt used in dataset construction
+# (see 02_html_css_code_generation.txt), with the addition of the following
+# task-specific instruction appended for each generation task.
+
+## Intention-to-Document (I2D)
+Generate a high-quality document that accurately reflects the specified category, style, and intention.
+
+## Document Derendering (DD)
+Convert the input document screenshot into corresponding HTML/CSS code that faithfully reproduces the visual layout and content.
+
+## Element-to-Document (E2D)
+Synthesize a coherent document by incorporating all provided elements exactly once, ensuring proper layout and visual harmony.
